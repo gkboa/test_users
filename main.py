@@ -5,8 +5,8 @@ from secrets import token_urlsafe
 from faker import Faker
 from telebot import TeleBot, types
 
-# TODO: 7658942562:AAG5l1DiyCQ1hL0HxUusDBQqZr-uh9t-zPc
-TOKEN = '7658942562:AAG5l1DiyCQ1hL0HxUusDBQqZr-uh9t-zPc'
+# TODO: Вставьте_свой_токен
+TOKEN = 'Вставьте_свой_токен'
 bot = TeleBot(TOKEN, parse_mode='html')
 # библиотека для генерации тестовых ФИО
 # указываем язык - русский
