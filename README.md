@@ -12,11 +12,11 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/German-D/test_users/main/static/menu.png)
+![image](https://raw.githubusercontent.com/gkboa/test_users/main/static/menu.png)
 
 После выбора количества пользователей:
 
-![image](https://raw.githubusercontent.com/German-D/test_users/main/static/generate.png)
+![image](https://raw.githubusercontent.com/gkboa/test_users/main/static/generate.png)
 
 ## 💻 Технологии
 
@@ -54,3 +54,7 @@ python3 -m pip install faker
 ``` markdown
 python3 test_users_bot.py
 ```
+
+## Автор
+
+Данила Данилович ([@gkboa](https://t.me/gkboa))
