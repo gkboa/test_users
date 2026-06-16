@@ -12,11 +12,11 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/gkboa/test_users/main/static/menu.png)
+![image](https://raw.githubusercontent.com/gkboa/test_users/refs/heads/main/start_screen.png)
 
 После выбора количества пользователей:
 
-![image](https://raw.githubusercontent.com/gkboa/test_users/main/static/generate.png)
+![image](https://raw.githubusercontent.com/gkboa/test_users/refs/heads/main/generate_users.png)
 
 ## 💻 Технологии
 
